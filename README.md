@@ -5,3 +5,6 @@
 
 ## Requirements.
 - Requires Pyspark dependency.
+
+## License
+- License under [GNU](https://github.com/amandp13/Diabetes-Prediction-Model/blob/master/LICENSE)
